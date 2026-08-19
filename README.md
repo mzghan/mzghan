@@ -60,16 +60,6 @@
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mzghan&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-> ⚠️ Trophy masih pakai server publik (belum ada versi Actions-nya) — kalau nanti sering putus juga, bisa aku bantu ganti ke widget lain.
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
