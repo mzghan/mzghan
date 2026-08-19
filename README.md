@@ -40,27 +40,23 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mzghan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzghan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="profile/stats.svg" />
+  <img height="165" src="profile/top-langs.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzghan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="profile/streak.svg" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mzghan&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
+> Semua card di atas di-generate otomatis oleh GitHub Actions (bukan lagi minta ke server publik), jadi jauh lebih jarang broken.
 
 ---
 
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mzghan/mzghan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="profile/snake-dark.svg" alt="Snake animation" />
 </p>
-
-> ⚠️ Widget ular ini butuh setup GitHub Actions tambahan — instruksinya ada di bagian bawah.
 
 ---
 
@@ -69,6 +65,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mzghan&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
+
+> ⚠️ Trophy masih pakai server publik (belum ada versi Actions-nya) — kalau nanti sering putus juga, bisa aku bantu ganti ke widget lain.
 
 ---
 
